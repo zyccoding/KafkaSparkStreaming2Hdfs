@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://E://gittest/gittest.iml" filepath="E://gittest/gittest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gittest.iml" filepath="$PROJECT_DIR$/gittest.iml" />
     </modules>
   </component>
 </project>
